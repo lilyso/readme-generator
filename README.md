@@ -1,6 +1,6 @@
-# Readme generator
+# Readme Generator
 
-  > generates readme files 
+  > Creates a simple README template using the command line.
   > Live demo [_here_](https://www.example.com).
   
   ## Table of Contents
@@ -16,13 +16,13 @@
   
   ## License
 
-  [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![GPL](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-  This project is licensed under the MIT License - see the LICENSE.md file for details.
+  This project is licensed under the GPL License - see the LICENSE.md file for details.
  
   ## General Information
   
-  this is the most awesome readme file generator
+  Create a simple README project using the command line to enter details of your project.
   
   ## Screenshots
   
@@ -30,19 +30,19 @@
   
   ## Setup
 
-  install node
+  You will need to install node.js to run app.
 
   ## Usage
   
-  use it well
+  npm install inquirer
 
   ## Contributing Guidelines
   
-  contribute to me
+  We encourage public contributions! Please review [CONTRIBUTING.md](docs/CONTRIBUTING.md) for details on our code of conduct and development process.
 
   ## Test Instructions
   
-  test me 
+  Test
   
   ## Questions
   
