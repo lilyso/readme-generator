@@ -72,7 +72,6 @@ function generateMarkdown(data) {
   - [Setup](#setup)
   - [Usage](#usage)
   - [Contributing Guidelines](#contributing-guidelines)
-  - [Acknowledgements](#acknowledgements)
   - [Questions](#questions)
   
   ## License
