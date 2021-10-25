@@ -1,7 +1,7 @@
 # README Generator
 
 > Create a quick and simple README template using the command line to enter details of your project.
-> Live demo [_here_](https://watch.screencastify.com/v/4szX8bEiWfYYSyNGgoQp).
+> Demo [_here_](https://watch.screencastify.com/v/ePabC3FrDKnBzE7CqOgI).
 
 ## Table of Contents
 
